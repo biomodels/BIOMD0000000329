@@ -1,3 +1,21 @@
+# BIOMD0000000329: Kummer2000_CalciumSpiking
+
+## Installation
+
+Download this repository, and install with distutils
+
+`python setup.py install`
+
+Or, install using pip
+
+`pip install git+https://github.com/biomodels/BIOMD0000000329.git`
+
+To install a specific version (in this example, from the 2014-09-16 BioModels release)
+
+`pip install git+https://github.com/biomodels/BIOMD0000000329.git@20140916`
+
+
+# Model Notes
 
 
 This model is from the article:  
@@ -14,4 +32,5 @@ able to show simple periodic oscillations and periodic bursting, and it is the
 first model to display chaotic bursting in response to agonist stimulations.
 Moreover, our model offers a possible explanation for the differences in
 dynamic behavior observed in response to different agonists in hepatocytes.
+
 
